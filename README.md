@@ -1,6 +1,4 @@
-
-#Cross-Domain Exempler-Based Learning
-
+Learning Correspondences Across Domains for Exemplar-Based Image Translation
 This project explores exemplar-based learning across different domains using deep learning techniques. It focuses on how to leverage a small set of representative examples (exemplars) from a source domain to improve model performance when applied to a target domain with limited or no labeled data.
 
 The key idea is to select and utilize informative exemplars that best capture the variations within the source domain and help bridge the domain gap during adaptation. This approach can be useful in scenarios like transfer learning, few-shot learning, and domain adaptation, where labeled data is scarce in the target domain.
